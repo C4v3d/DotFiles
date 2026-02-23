@@ -1,6 +1,7 @@
 # DotFiles
 This is a basic setup for different things I use on my machine. Standard black and white theme that will fits every laptop :).
 This is not a static final form of my configuration !
+![Screenshot of my fastfetch](./ff.png/?raw=true "Fastfetch")
 ## Stuff I use
 short list of tools I use:
 - sway (Wayland compositor).
