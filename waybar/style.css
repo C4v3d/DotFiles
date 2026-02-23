@@ -1,0 +1,37 @@
+*{
+	font-family: GohuFont uni14 Nerd Font Mono;
+	background: transparent;
+	border-radius: 0px;
+}
+
+window#waybar {
+	padding: 10px;
+}
+
+#workspaces {
+	color: #e8e8e8;
+}
+
+#workspaces button.focused {
+	color: #131618;
+	background-color: #e8e8e8;
+}
+
+#pulseaudio,
+#clock,
+#network,
+#battery {
+	padding: 10px;
+}
+
+
+#network,
+#clock,
+#custom-applauncher,
+#tray,
+#workspaces,
+#pulseaudio,
+#battery {
+
+	color: #C8D4BB;
+} 
